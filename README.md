@@ -43,6 +43,7 @@ I learnt how to use css grid especially the repeat attribute, see beloe
                 <img src="./img/nft.png" width="70px" height="60px" alt="">
                 <p>NFT</p>
             </div>
+   </div>        
 ```
 ```css
  #what .nft {
