@@ -6,15 +6,6 @@ html {
     margin: 0px;
     box-sizing: border-box;
 }
-/* body:before {
-    content: "";
-    background-color: red;
-    position: fixed;
-    height: 100%;
-    width: 100%;
-    opacity: 0.1;
-
-} */
 body {
     line-height: 20px;
     font-family: Arial, Helvetica, sans-serif;
@@ -74,7 +65,7 @@ body {
     color: hsl(158, 60%, 90%);
     line-height: 60px;
     margin-top: 190px;
-    font-size: 65px;
+    font-size: 50px;
     padding-right: 50px;
     transform: translateY(-2000px);
     animation: text 1.5s forwards 0.3s;
@@ -83,7 +74,7 @@ body {
 .special {
     display: block;
     color: #fff;
-    font-size: 50px;
+    font-size: 40px;
     margin-left: 10px;
 }
 @keyframes text {
@@ -99,6 +90,7 @@ body {
     padding-top: 20px;
     padding-right: 12px;
     padding-left: 12px;
+    width: 20rem;
     padding-bottom: 10px;
     transform: translateX(-2000px);
     animation: para 2s forwards 1s;
@@ -177,7 +169,7 @@ body {
     padding: 20px;
 }
 #partners img {
-    width: 160px;
+    width: 140px;
     height: 80px;
 }
 #partners h2 {
